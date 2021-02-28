@@ -1,0 +1,6 @@
+suites:
+  app_suite:
+    namespace: App
+    psr4_prefix: App
+    src_path: '%paths.config%/src'
+    spec_path: '%paths.config%'
